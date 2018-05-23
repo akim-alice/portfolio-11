@@ -1,0 +1,18 @@
+
+body {
+    background-color: skyblue;
+
+}
+.part2 {
+    float: right;
+    color:#fff;
+  }
+  .part1{
+      float: left;
+      color:#fff;
+    }
+  .part3{
+      text-align: center;
+      clear: both;
+      color:#fff;
+    }
